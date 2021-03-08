@@ -1,0 +1,2 @@
+# informasjonsmodeller
+Publisering av informasjonsmodeller fra Brønnøysundregistrene

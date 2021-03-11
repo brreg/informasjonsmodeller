@@ -1,0 +1,47 @@
+Beskrivelse av visninger for forretningsobjektmodeller for Enhetsregisteret
+
+Sentrale opplysninger
+
+Denne er utgangspunkt for alle andre visninger i modellen og gir oversikt. Modellene tar utgangspunkt i Enhetsregisterloven med tilhørende forskrift. Det sentrale objektet i Enhetsregisteret er virksomheten. Virksomheten identifiseres med organisasjonsnummer. 
+
+
+
+Roller i Enhetsregisteret
+
+Denne visningen gir oversikt over hvilke roller en virksomhet kan ha. Med roller i denne sammenhengen menes relasjoner en virksomhet kan ha til fysiske personer eller andre virksomheter i Enhetsregisteret. 
+
+
+
+Kontaktinformasjon
+
+Denne visningen gir oversikt over hvilken kontaktinformasjon som kan være registrert på en virksomhet. Dette kan være fysiske adresser og digitale adresser.
+
+
+
+Virksomhetens status
+
+Visningen gir oversikt over viktige tilstander en virksomhet kan ha, som at virksomheten er under avvikling eller at den skal sammenslås med andre virksomheter. Den viser også hvilke andre registre virksomheten er registrert i.
+
+
+
+Foretaksgruppe
+
+Visningen for foretaksgruppe gir oversikt over hvilke strukturer en virksomhet kan være en del av som f.eks. konsern.
+
+
+
+Offentlig forvaltning
+
+Denne visningen viser hvilke strukturer en virksomhet som er en del av offentlig forvaltning kan ha. Med offentlig forvaltning menes her staten, fylkeskommunene og kommunene. 
+
+
+
+Underenhet
+
+Underenhet er en del av virksomheten og er en integrert del av denne. Underenheten identifiseres med et eget organisasjonsnummer. En underenhet kan ikke eksistere alene og har alltid en knytning mot en annen hovedenhet. En underenhet kan f.eks. være en geografisk adskilt lokasjon hvor det drives aktivitet med én eller flere ansatte.
+
+
+
+Tilknyttet register
+
+Denne visningen viser hvilke tilknyttede registre en virksomhet kan være registrert i. 

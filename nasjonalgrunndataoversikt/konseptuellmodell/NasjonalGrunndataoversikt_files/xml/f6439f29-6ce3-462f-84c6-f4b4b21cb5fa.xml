@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><magicdraw><literalstring classType="LiteralString" humanType="Literal String" icon="NasjonalGrunndataoversikt_files/icon_literalstring_1866669087.jpg" id="f6439f29-6ce3-462f-84c6-f4b4b21cb5fa"><documentation humanName="Documentation"/><name humanName="Name"/><owner classType="Slot" humanName="Owner" humanType="Slot" icon="NasjonalGrunndataoversikt_files/icon_slot_1177051644.jpg" mode="e" refid="b6aebe3b-4cb2-4f9b-b444-3d90347c5a75"/><owningSlot classType="Slot" humanName="Owning Slot" humanType="Slot" icon="NasjonalGrunndataoversikt_files/icon_slot_1177051644.jpg" refid="b6aebe3b-4cb2-4f9b-b444-3d90347c5a75"/><qualifiedName humanName="Qualified Name"/><text humanName="Text" mode="standard">&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;a href="https://www.brreg.no/om-oss/registrene-vare/om-enhetsregisteret/"&gt;https://www.brreg.no/om-oss/registrene-vare/om-enhetsregisteret/&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</text><TO_DO humanName="To Do"/><TYPE_MODIFIER humanName="Type Modifier"/><value humanName="Value" mode="s,e">&lt;html&gt;
-  &lt;head&gt;
-		&lt;style&gt;
-			p {padding:0px; margin:0px;}
-		&lt;/style&gt;
-	&lt;/head&gt;
-  &lt;body&gt;
-&lt;a href="https://www.brreg.no/om-oss/registrene-vare/om-enhetsregisteret/"&gt;https://www.brreg.no/om-oss/registrene-vare/om-enhetsregisteret/&lt;/a&gt;&lt;/body&gt;
-&lt;/html&gt;</value><visibility humanName="Visibility">public</visibility></literalstring></magicdraw>

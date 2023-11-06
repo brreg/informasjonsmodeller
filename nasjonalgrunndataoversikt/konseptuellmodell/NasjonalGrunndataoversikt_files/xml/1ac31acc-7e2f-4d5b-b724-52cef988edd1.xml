@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><literalstring classType="LiteralString" humanType="Literal String" icon="NasjonalGrunndataoversikt_files/icon_literalstring_1866669087.jpg" id="1ac31acc-7e2f-4d5b-b724-52cef988edd1"><documentation humanName="Documentation"/><name humanName="Name"/><owner classType="Slot" humanName="Owner" humanType="Slot" icon="NasjonalGrunndataoversikt_files/icon_slot_1177051644.jpg" mode="e" refid="d50135b7-8d73-4fbd-aef9-77d2d3ae5f78"/><owningSlot classType="Slot" humanName="Owning Slot" humanType="Slot" icon="NasjonalGrunndataoversikt_files/icon_slot_1177051644.jpg" refid="d50135b7-8d73-4fbd-aef9-77d2d3ae5f78"/><qualifiedName humanName="Qualified Name"/><text humanName="Text" mode="standard">&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;a href="https://data.norge.no/concepts/e972dd11-5e33-3c59-97bd-39aa26fc1ffe"&gt;https://data.norge.no/concepts/e972dd11-5e33-3c59-97bd-39aa26fc1ffe&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</text><TO_DO humanName="To Do"/><TYPE_MODIFIER humanName="Type Modifier"/><value humanName="Value" mode="s,e">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+&lt;a href="https://data.norge.no/concepts/e972dd11-5e33-3c59-97bd-39aa26fc1ffe"&gt;https://data.norge.no/concepts/e972dd11-5e33-3c59-97bd-39aa26fc1ffe&lt;/a&gt;&lt;/body&gt;
+&lt;/html&gt;</value><visibility humanName="Visibility">public</visibility></literalstring></magicdraw>

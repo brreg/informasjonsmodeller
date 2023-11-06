@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="NasjonalGrunndataoversikt_files/icon_comment_1859217677.jpg" id="dd354b4c-a514-429e-bf59-478e8d84bbb3"><annotatedElement humanName="Annotated Element" mode="s,e"><class classType="Class" humanType="Class" icon="NasjonalGrunndataoversikt_files/icon_class_173440626.jpg" name="ArbeidsforholdId" refid="29f987bc-ff28-4c0b-8f8d-f747595af628"/></annotatedElement><body humanName="Body" mode="s,e">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+Se &lt;a href="https://data.norge.no/concepts/dc9ab37c-e619-3e37-b7e8-53097e60e96c"&gt;https://data.norge.no/concepts/dc9ab37c-e619-3e37-b7e8-53097e60e96c&lt;/a&gt;&lt;/body&gt;
+&lt;/html&gt;</body><documentation humanName="Documentation"/><owner classType="Class" humanName="Owner" humanType="Class" icon="NasjonalGrunndataoversikt_files/icon_class_173440626.jpg" mode="s,e" name="ArbeidsforholdId" refid="29f987bc-ff28-4c0b-8f8d-f747595af628"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="NasjonalGrunndataoversikt_files/icon_class_173440626.jpg" name="ArbeidsforholdId" refid="29f987bc-ff28-4c0b-8f8d-f747595af628"/><TO_DO humanName="To Do" mode="s,e"/></comment></magicdraw>
